@@ -6,7 +6,7 @@ title: Business coaching avec Steffy CD - Accueil
 
 Découvrez des stratégies pour développer votre business en ligne.
 
-Je viens de recréer ce site donc un peu de patience, d'autres contenus vont être ajoutés :-)
+Je viens de créer ce site donc un peu de patience, d'autres contenus vont être ajoutés :-)
 
 Liens
 
@@ -23,3 +23,4 @@ Liens
 
 
 
+Site créé le 18 septembre 2024.
