@@ -7,8 +7,7 @@ Découvrez des stratégies pour développer votre business en ligne.
 
 Liens
 
-Test: Combien peux tu gagner avec un business en ligne ?
-forms.gle/PPhe2kUfzohxfQpp6
+<a href="forms.gle/PPhe2kUfzohxfQpp6">Test: Combien peux tu gagner avec un business en ligne ?</a>
 
 S'abonner à la chaîne YouTube
 youtube.com/@SteffyCDbusinesscoaching/?sub_confirmation=1
