@@ -34,4 +34,4 @@ Actuellement, aucune contribution n'est requise. Pour toute question ou suggesti
 Ce projet est sous licence [Nom de la Licence].
 
 ## Contact
-Pour toute question ou commentaire, veuillez me contacter à [ton email].
+Pour toute question ou commentaire, veuillez me contacter à [steffycd@mailfence.com]  
