@@ -24,10 +24,12 @@ Témoignage de Vincent du blog <a href="https://travail-heureux.com/">Travail he
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube.com/embed/ID_VIDEO" 
+  src="https://www.youtube.com/embed/enC8bUV1Sr8" 
   frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen 
-  loading="lazy"></iframe>
+  loading="lazy">
+</iframe>
 <br> <br>
 <br>Je viens de créer ce site, d'autres contenus vont être ajoutés, possiblement sur les thèmes :<br>
 
