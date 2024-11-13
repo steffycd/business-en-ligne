@@ -25,8 +25,6 @@ Découvrez des stratégies pour lancer ou développer votre business en ligne. <
 
 <img src="Vincent Steffy CD avis business coach business choaching.jpg">
 <img src="business-en-ligne/Vincent Steffy CD avis business coach business choaching.jpg">
-<img src="../Vincent Steffy CD avis business coach business choaching.jpg">
-<img src="../../Vincent Steffy CD avis business coach business choaching.jpg">
 <img src="../business-en-ligne/Vincent Steffy CD avis business coach business choaching.jpg">
 <img src="../../business-en-ligne/Vincent Steffy CD avis business coach business choaching.jpg">
 
