@@ -31,7 +31,7 @@ Témoignage video :<br>
   allowfullscreen 
   loading="lazy">
 </iframe>
-<br> <br>
+
 <br>Je viens de créer ce site, d'autres contenus vont être ajoutés, possiblement sur les thèmes :<br>
 
 <LI> Arrêter de procrastiner son business ou son projet de business en ligne
