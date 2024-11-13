@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Business coaching avec Steffy CD - Accueil
+title: Business coaching avec Steffy CD
 ---
 # Bienvenue
 
