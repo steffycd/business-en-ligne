@@ -21,6 +21,7 @@ Découvrez des stratégies pour lancer ou développer votre business en ligne. <
 <img src="Vincent-Steffy-CD-avis-business-coach-business.jpg">
 Témoignage de Vincent du blog <a href="https://travail-heureux.com/">Travail heureux</a>
 <br><br>
+Témoignage video :<br>
 <iframe 
   width="560" 
   height="315" 
