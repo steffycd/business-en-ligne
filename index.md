@@ -4,7 +4,7 @@ title: Business coaching avec Steffy CD
 ---
 # Bienvenue
 
-Découvrez des stratégies pour lancer ou développer votre business en ligne. <br><br>
+Découvrez des stratégies pour lancer ou développer votre business en ligne. <br>
 
 <a href="http://forms.gle/PPhe2kUfzohxfQpp6">Test: Combien peux tu gagner avec un business en ligne ?</a>
 
@@ -46,7 +46,8 @@ Témoignage video :<br>
 <LI> Créer et vendre du coaching
 <LI> Créer et vendre des formations en ligne
 <LI> Créer une offre irrésistible
-<LI> Gagner rapidement des Inscrits/Abonnés sur Insta/YouTube/Twitter
+<LI> Augmenter ses vues YouTube à partir de zéro
+<LI> Gagner rapidement des Inscrits/Abonnés sur Insta/YouTube/Pinterest
 <LI> Trouver des clients
 <LI> SEO (classement en 1ère page de Google)
 <LI> Marketing en ligne
