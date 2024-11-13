@@ -35,6 +35,9 @@ Témoignage video :<br>
 </iframe>
 </p>
 
+<a href="http://calendly.com/coaching-infopreneurs/decouverte?month=2024-01">Prendre rendez vous</a>, 1ère séance offerte.
+<br><br>
+
 <br>Je viens de créer ce site, d'autres contenus vont être ajoutés, possiblement sur les thèmes :<br>
 
 <LI> Arrêter de procrastiner son business ou son projet de business en ligne
