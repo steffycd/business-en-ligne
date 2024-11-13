@@ -8,22 +8,22 @@ Découvrez des stratégies pour lancer ou développer votre business en ligne. <
 
 <br>Je viens de créer ce site, d'autres contenus vont être ajoutés, possiblement sur les thèmes :<br>
 <MENU>
+<LI> Arrêter de procrastiner son business ou son projet de business en ligne
 <LI> Trouver son Positionnement / Trouver sa niche
 <LI> Lancer un Business sans se montrer
 <LI> Créer et vendre du coaching
 <LI> Créer et vendre des formations en ligne
-<LI> Créer des Webinaires de vente
-<LI> Automatisation du business
 <LI> Créer une offre irrésistible
 <LI> Gagner rapidement des Inscrits/Abonnés sur Insta/YouTube/Twitter
-<LI> IA (ChatGPT, apprentissage, survie à l'IA)
 <LI> Trouver des clients
-<LI>SEO (classement en 1ère page de Google)
+<LI> SEO (classement en 1ère page de Google)
+<LI> Marketing en ligne
+<LI> Lancer des Webinaires de vente
+<LI> Automatisation du business
+<LI> IA (ChatGPT, apprentissage, survie à l'IA)
 <LI> Setting et Closing
-<LI> Réseaux sociaux
-<LI> Marketing
 <LI> Publicité (Facebook & Google / YouTube )
-  </MENU>
+</MENU>
   <br> <br>
   <b>Qui je suis ?</b><br> J'aide coach & infopreneurs à monétiser 1 petite audience |⚡️270 K vues YouTube sur mes 3 chaînes |🏆 Certification SEO LinkedIn | 3000 élèves formés | J'ai étudié et enseigné marketing et l'économie pendant plus de 15 ans.<br>
 <img src="Vincent-Steffy-CD-avis-business-coach-business.jpg">
