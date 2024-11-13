@@ -19,13 +19,6 @@ Témoignage de Vincent du blog Travail heureux
 
 <a href="http://youtube.com/@SteffyCDbusinesscoaching/?sub_confirmation=1">Me suivre sur YouTube</a>
 
-
 <br>Je viens de créer ce site, d'autres contenus vont être ajoutés :-)<br>
-<img src="../business-en-ligne/Vincent-Steffy-CD-avis-business-coach-business.jpg">
-
-<img src="Vincent Steffy CD avis business coach business choaching.jpg">
-<img src="../business-en-ligne/Vincent Steffy CD avis business coach business choaching.jpg">
-<img src="../../business-en-ligne/Vincent Steffy CD avis business coach business choaching.jpg">
-
 Des questions ? Contact : steffycd@mailfence.com <br>
 Site créé le 18 septembre 2024. Dernière visite le 13 novembre 2024.
