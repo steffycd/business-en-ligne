@@ -5,7 +5,7 @@ title: Business coaching avec Steffy CD - Accueil
 # Bienvenue
 
 Découvrez des stratégies pour développer votre business en ligne.<p>
-<b>Qui je suis ?</b><br> 3000 élèves formés | J'aide coach & infopreneurs à monétiser 1 petite audience |⚡️270 K vues YouTube |🏆 Certification SEO LinkedIn | J'ai étudié et enseigné marketing et l'économie pendant plus de 15 ans.
+<b>Qui je suis ?</b><br> 3000 élèves formés | J'aide coach & infopreneurs à monétiser 1 petite audience |⚡️270 K vues YouTube sur mes 3 chaînes |🏆 Certification SEO LinkedIn | J'ai étudié et enseigné marketing et l'économie pendant plus de 15 ans.
 
 Je viens de créer ce site, d'autres contenus vont être ajoutés :-)
 
