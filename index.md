@@ -20,7 +20,6 @@ Découvrez des stratégies pour lancer ou développer votre business en ligne. <
 <b>Qui je suis ?</b><br> J'aide coach & infopreneurs à monétiser 1 petite audience |⚡️270 K vues YouTube sur mes 3 chaînes |🏆 Certification SEO LinkedIn | 3000 élèves formés | J'ai étudié et enseigné marketing et l'économie pendant plus de 15 ans.<br>
 <img src="Vincent-Steffy-CD-avis-business-coach-business.jpg">
 Témoignage de Vincent du blog Travail heureux
-<br>
 
 <br> <br>
 <br>Je viens de créer ce site, d'autres contenus vont être ajoutés, possiblement sur les thèmes :<br>
@@ -40,7 +39,6 @@ Témoignage de Vincent du blog Travail heureux
 <LI> IA (ChatGPT, apprentissage, survie à l'IA)
 <LI> Setting et Closing
 <LI> Publicité (Facebook & Google / YouTube )
-  <br> <br>
-
+<br>
 Des questions ? Contact : steffycd@mailfence.com <br>
 Site créé le 18 septembre 2024. Dernière visite le 13 novembre 2024.
