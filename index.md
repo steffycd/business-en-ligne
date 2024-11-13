@@ -9,7 +9,7 @@ Découvrez des stratégies pour lancer ou développer votre business en ligne. <
 <img src="Vincent-Steffy-CD-avis-business-coach-business.jpg">
 Témoignage de Vincent du blog Travail heureux <br> <br>
 <br>
-<a href="http://forms.gle/PPhe2kUfzohxfQpp6">Test: Combien peux tu gagner avec un business en ligne ?</a>
+<br><a href="http://forms.gle/PPhe2kUfzohxfQpp6">Test: Combien peux tu gagner avec un business en ligne ?</a>
 
 <a href="http://mtr.bio/funeducationacademycom">Liens multiples et cadeaux</a> 
 
@@ -19,6 +19,23 @@ Témoignage de Vincent du blog Travail heureux <br> <br>
 
 <a href="http://youtube.com/@SteffyCDbusinesscoaching/?sub_confirmation=1">Me suivre sur YouTube</a>
 
-<br>Je viens de créer ce site, d'autres contenus vont être ajoutés :-)<br>
+<br>Je viens de créer ce site, d'autres contenus vont être ajoutés, possiblement sur les thèmes :<br>
+<MENU>
+<LI> Trouver son Positionnement / Trouver sa niche
+<LI> Lancer un Business sans se montrer
+<LI> Créer et vendre du coaching
+<LI> Créer et vendre des formations en ligne
+<LI> Créer des Webinaires de vente
+<LI> Automatisation du business
+<LI> Créer une offre irrésistible
+<LI> Gagner rapidement des Inscrits/Abonnés sur Insta/YouTube/Twitter
+<LI> IA (ChatGPT, apprentissage, survie à l'IA)
+<LI> Trouver des clients
+<LI>SEO (classement en 1ère page de Google)
+<LI> Setting et Closing
+<LI> Réseaux sociaux
+<LI> Marketing
+<LI> Publicité (Facebook & Google / YouTube )
+  </MENU>
 Des questions ? Contact : steffycd@mailfence.com <br>
 Site créé le 18 septembre 2024. Dernière visite le 13 novembre 2024.
