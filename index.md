@@ -4,8 +4,8 @@ title: Business coaching avec Steffy CD
 ---
 # Bienvenue
 
-Découvrez des stratégies pour développer votre business en ligne. <br><br>
-<b>Qui je suis ?</b><br> 3000 élèves formés | J'aide coach & infopreneurs à monétiser 1 petite audience |⚡️270 K vues YouTube sur mes 3 chaînes |🏆 Certification SEO LinkedIn | J'ai étudié et enseigné marketing et l'économie pendant plus de 15 ans.<br>
+Découvrez des stratégies pour lancer ou développer votre business en ligne. <br><br>
+<b>Qui je suis ?</b><br> J'aide coach & infopreneurs à monétiser 1 petite audience |⚡️270 K vues YouTube sur mes 3 chaînes |🏆 Certification SEO LinkedIn | 3000 élèves formés | J'ai étudié et enseigné marketing et l'économie pendant plus de 15 ans.<br>
 < img src="Vincent Steffy CD avis business coach business choaching.jpg" >
 <br>
 <a href="http://forms.gle/PPhe2kUfzohxfQpp6">Test: Combien peux tu gagner avec un business en ligne ?</a>
