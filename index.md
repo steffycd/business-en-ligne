@@ -47,7 +47,7 @@ Témoignage video :<br>
 <LI> Créer et vendre des formations en ligne
 <LI> Créer une offre irrésistible
 <LI> Augmenter ses vues YouTube à partir de zéro
-<LI> Gagner rapidement des Inscrits/Abonnés sur Insta/YouTube/Pinterest
+<LI> Gagner rapidement des Inscrits/Abonnés sur YouTube ou les réseaux sociaux
 <LI> Trouver des clients
 <LI> SEO (classement en 1ère page de Google)
 <LI> Marketing en ligne
