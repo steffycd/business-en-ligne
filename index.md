@@ -48,6 +48,7 @@ Témoignage video :<br>
 <LI> Créer une offre irrésistible
 <LI> Augmenter ses vues YouTube à partir de zéro
 <LI> Gagner rapidement des Inscrits/Abonnés sur YouTube ou les réseaux sociaux
+<LI> Monétiser une audience TikTok/YouTube de plusieurs milliers d'abonnés ou plus
 <LI> Trouver des clients
 <LI> SEO (classement en 1ère page de Google)
 <LI> Marketing en ligne
