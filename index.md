@@ -56,6 +56,6 @@ Témoignage video :<br>
 <LI> IA (ChatGPT, apprentissage, survie à l'IA)
 <LI> Setting et Closing
 <LI> Publicité (Facebook & Google / YouTube )
-<br>
+<br><br>
 Des questions ? Contact : steffycd@mailfence.com <br>
-Site créé le 18 septembre 2024. Dernière visite le 13 novembre 2024.
+Site créé le 18 septembre 2024. Dernière visite le 16 novembre 2024.
