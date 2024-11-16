@@ -57,5 +57,5 @@ Témoignage video :<br>
 <LI> Setting et Closing
 <LI> Publicité (Facebook & Google / YouTube )
 <br><br>
-Des questions ? Contact : steffycd@mailfence.com <br>
+Des questions ? Contact : steffycd@mailfence.com - <a href="http://docs.google.com/forms/d/e/1FAIpQLScPa8v7p1iMQupOlwNSdW9t6fD9wP1TFKS-C1ak424ckBKupw/viewform?usp=sf_link">Mon Télégram</a> - <a href="http://calendly.com/coaching-infopreneurs/decouverte?month=2024-01">Réserver un coaching gratuit</a> <br>
 Site créé le 18 septembre 2024. Dernière visite le 16 novembre 2024.
