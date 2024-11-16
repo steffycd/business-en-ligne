@@ -8,13 +8,13 @@ Découvrez des stratégies pour lancer ou développer votre business en ligne. <
 
 <a href="http://forms.gle/PPhe2kUfzohxfQpp6">Test: Combien peux tu gagner avec un business en ligne ?</a>
 
-<a href="https://i.mtrbio.com/steffyCD)">Liens multiples</a> 
-
 <a href="http://calendly.com/coaching-infopreneurs/decouverte?month=2024-01">Réserver un coaching gratuit</a>
 
 <a href="http://docs.google.com/forms/d/e/1FAIpQLScPa8v7p1iMQupOlwNSdW9t6fD9wP1TFKS-C1ak424ckBKupw/viewform?usp=sf_link">Me suivre sur Télégram</a>
 
 <a href="http://youtube.com/@SteffyCDbusinesscoaching/?sub_confirmation=1">Me suivre sur YouTube</a>
+
+<a href="https://i.mtrbio.com/steffyCD)">Liens multiples</a> 
 
 <br>
 <b>Qui je suis ?</b><br> J'aide coach & infopreneurs à monétiser 1 petite audience | J'aide aussi les influenceurs Tik Tok ou YouTube à construire une offre pour monétiser une audience de plusieurs milliers d'abonnés ou plus |⚡️270 K vues YouTube sur mes 3 chaînes |🏆 Certification SEO LinkedIn | 3000 élèves formés | Vraie professeure, j'ai étudié et enseigné marketing et l'économie pendant plus de 15 ans.<br>
