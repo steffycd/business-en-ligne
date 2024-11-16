@@ -17,7 +17,7 @@ Découvrez des stratégies pour lancer ou développer votre business en ligne. <
 <a href="http://youtube.com/@SteffyCDbusinesscoaching/?sub_confirmation=1">Me suivre sur YouTube</a>
 
 <br>
-<b>Qui je suis ?</b><br> J'aide coach & infopreneurs à monétiser 1 petite audience, mais j'aide aussi les influenceurs à construire une offre pour monétiser une audience de plusieurs milliers d'abonnés |⚡️270 K vues YouTube sur mes 3 chaînes |🏆 Certification SEO LinkedIn | 3000 élèves formés | J'ai étudié et enseigné marketing et l'économie pendant plus de 15 ans.<br>
+<b>Qui je suis ?</b><br> J'aide coach & infopreneurs à monétiser 1 petite audience | J'aide aussi les influenceurs à construire une offre pour monétiser une audience de plusieurs milliers d'abonnés |⚡️270 K vues YouTube sur mes 3 chaînes |🏆 Certification SEO LinkedIn | 3000 élèves formés | J'ai étudié et enseigné marketing et l'économie pendant plus de 15 ans.<br>
 <p>
 <b>Témoignages clients :</b><br>
 <img src="Vincent-Steffy-CD-avis-business-coach-business.jpg">
