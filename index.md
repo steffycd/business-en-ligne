@@ -65,6 +65,7 @@ Témoignage video :<br>
 <br><br>
 
 ---
+# Domaines d'expertise
 <br>Thématiques :<br>
 
 <b>Business (général):</b><br>
@@ -86,8 +87,8 @@ Témoignage video :<br>
 <LI> Créer et vendre du coaching
 <LI> Créer et vendre des formations en ligne
 <LI> Augmenter ses vues YouTube à partir de zéro
-<LI> Gagner rapidement des Inscrits/Abonnés sur YouTube ou les réseaux sociaux
-<LI> Monétiser une audience TikTok/YouTube de plusieurs milliers d'abonnés ou plus
+<LI> Gagner rapidement des Inscrits/Abonnés sur YouTube
+<LI> Monétiser une audience TikTok/YouTube de plusieurs milliers d'abonnés
 <br><br>
 
 <b>Scaling</b><br>
