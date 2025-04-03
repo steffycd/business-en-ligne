@@ -66,7 +66,7 @@ Témoignage video :<br>
 
 ---
 # Domaines d'expertise
-<br>Thématiques :<br>
+<br>
 
 <b>Business (général):</b><br>
 
@@ -101,6 +101,16 @@ Témoignage video :<br>
 <LI> Scaling multicanal</LI> 
 <LI> Gestion des KPIs</LI>
 <br><br>
-  
+
+<b>Scaling pour avocats et comptables</b><br>
+
+<LI> Optimisation du cashflow des cabinets</LI> 
+<LI> Automatisation des processus juridiques et comptables</LI> 
+<LI> IA pour la gestion des dossiers clients</LI> 
+<LI> Pricing dynamique des services juridiques et comptables</LI> 
+<LI> Modèles de revenue récurrent pour les services légaux</LI> 
+<LI> Scaling des services multicanal (digitalisation des consultations)</LI> 
+<LI> Suivi des performances via des KPIs spécifiques aux professions</LI>
+
 Des questions ? Contact : steffycd@mailfence.com - <a href="http://docs.google.com/forms/d/e/1FAIpQLScPa8v7p1iMQupOlwNSdW9t6fD9wP1TFKS-C1ak424ckBKupw/viewform?usp=sf_link">Mon Télégram</a> - <a href="http://calendly.com/coaching-infopreneurs/decouverte?month=2024-01">Réserver un coaching gratuit</a> <br>
 Site créé le 18 septembre 2024. Dernière visite le 03 avril 2025.
