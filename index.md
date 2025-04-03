@@ -4,7 +4,7 @@ title: Travailler moins pour gagner plus : scalez votre activité !
 ---
 # Business coaching avec Steffy CD
 
-Découvrez des stratégies pour scaler votre entreprise, que ce soit une profession du droit et du chiffre ou un business en ligne. <br>
+Avocats, comptables, coachs ou infopreneurs, découvrez des stratégies pour scaler votre entreprise. <br>
 
 <a href="https://forms.gle/nv1BMBmSDVKA3aJv7">Test : Votre entreprise est elle scalable ? Découvrez comment scaler votre entreprise !</a>
 
