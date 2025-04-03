@@ -36,7 +36,8 @@ Avocats, comptables, coachs ou infopreneurs, découvrez des stratégies pour sca
 ---
 
 <br>
-<b> Qui je suis ?</b><br> 
+# Qui je suis ?
+<br> 
 📌 <b>Business coaching pour les professions du droit et du chiffre (avocats, comptables), coachs ou infopreneurs.</b><br>
 
 J'aide les avocats et comptables à structurer et scaler leur business.<br>
