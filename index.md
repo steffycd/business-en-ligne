@@ -114,6 +114,7 @@ Témoignage video :<br>
 <LI> Suivi des performances via des KPIs spécifiques aux professions</LI>
 <br><br>
 <img src="1.jpg"> <br>
+<img src="2.jpg"> <br>
 
 <br><br>
 
