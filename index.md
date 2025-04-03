@@ -2,11 +2,15 @@
 layout: default
 title: Business coaching avec Steffy CD
 ---
-# Bienvenue
+# Travailler moins pour gagner plus : voulez vous scaler votre activité ?
 
 Découvrez des stratégies pour lancer ou développer votre business en ligne. <br>
 
+<a href="https://forms.gle/nv1BMBmSDVKA3aJv7">Test : Votre entreprise est elle scalable ? Découvrez comment scaler votre entreprise !</a>
+
 <a href="http://forms.gle/PPhe2kUfzohxfQpp6">Test: Combien peux tu gagner avec un business en ligne ?</a>
+
+<a href="https://forms.gle/mWmjkxnJW3YCrgJT6">Test : Évaluez l'efficacité de votre prospection et boostez vos résultats !</a>
 
 <a href="http://calendly.com/coaching-infopreneurs/decouverte?month=2024-01">Réserver un coaching gratuit</a>
 
@@ -17,7 +21,17 @@ Découvrez des stratégies pour lancer ou développer votre business en ligne. <
 <a href="https://i-sml.mtrbio.com/public/smartlink/steffyCD">Multiliens</a>
 
 <br>
-<b>Qui je suis ?</b><br> J'aide coach & infopreneurs à monétiser 1 petite audience | J'aide aussi les influenceurs Tik Tok ou YouTube à construire une offre pour monétiser une audience de plusieurs milliers d'abonnés ou plus |⚡️270 K vues YouTube sur mes 3 chaînes |🏆 Certification SEO LinkedIn | 3000 élèves formés | Vraie professeure, j'ai étudié et enseigné marketing et l'économie pendant plus de 15 ans.<br>
+<b>Qui je suis ?</b><br> 
+📌 Business coaching pour les professions du droit et du chiffre (avocats, comptables), coachs ou infopreneurs.<p></p>
+
+J'aide les avocats à structurer et scaler leur business.<br>
+J'aide les coachs & infopreneurs à monétiser et à scaler.<br>
+J'aide les YouTubeurs à construire une offre pour monétiser leur audience <br>
+J'accompagne plus généralement les entrepreneurs à structurer et scaler leur business <br>
+
+
+
+J'aide les avocats et comptables à structurer et scaler leur business | J'aide coach & infopreneurs à monétiser 1 petite audience | J'aide aussi les influenceurs Tik Tok ou YouTube à construire une offre pour monétiser une audience de plusieurs milliers d'abonnés ou plus |⚡️270 K vues YouTube sur mes 3 chaînes |🏆 Certification SEO LinkedIn | 3000 élèves formés | Vraie professeure, j'ai étudié et enseigné marketing et l'économie pendant plus de 15 ans.<br>
 <p>
 <b>Témoignages clients :</b><br>
 <img src="Vincent-Steffy-CD-avis-business-coach-business.jpg">
