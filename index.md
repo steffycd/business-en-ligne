@@ -4,7 +4,7 @@ title: Business coaching avec Steffy CD
 ---
 # Travailler moins pour gagner plus : voulez vous scaler votre activité ?
 
-Découvrez des stratégies pour lancer ou développer votre business en ligne. <br>
+Découvrez des stratégies pour scaler votre entreprise, que ce soit une profession du droit et du chiffre ou un business en ligne. <br>
 
 <a href="https://forms.gle/nv1BMBmSDVKA3aJv7">Test : Votre entreprise est elle scalable ? Découvrez comment scaler votre entreprise !</a>
 
