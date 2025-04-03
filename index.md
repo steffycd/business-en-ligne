@@ -49,7 +49,19 @@ Témoignage video :<br>
 
 <a href="http://calendly.com/coaching-infopreneurs/decouverte?month=2024-01">Prendre rendez vous</a>, 1ère séance offerte.
 <br><br>
+---
+<br>
+# Professions du droit et du chiffre, apprenez à scaler votre cabinet
+<br>
+Le scaling, c’est la capacité à faire croître votre activité de manière significative, sans augmenter proportionnellement les coûts ou le temps investi. Cela passe par l'optimisation des processus, l’automatisation de certaines tâches et l’utilisation des outils numériques pour gérer plus de clients sans sacrifier la qualité du service.<br>
 
+<b>Pour les professions du droit et du chiffre, 2025 est une année cruciale.</b> L'IA a déjà remplacé certains rôles, comme les juristes et les assistants comptables, et la digitalisation ne cesse de s'accélérer. <b>Si vous ne vous modernisez pas, vous risquez de perdre en compétitivité et de voir votre activité décliner.</b> En revanche, ceux qui choisissent d’adopter ces technologies pourront se développer plus efficacement et rester en tête de la compétition.<br>
+
+<b>Pour vous aider à franchir ce cap, je vous propose un audit gratuit de vos processus actuels.</b> Cela vous permettra d’identifier les leviers de croissance et de modernisation qui vous aideront à scaler votre activité, à travailler moins, et à maximiser vos revenus de manière durable.<br><br>
+<a href="http://calendly.com/coaching-infopreneurs/decouverte?month=2024-01">Réserver un audit gratuit</a> <br>
+<br><br>
+
+---
 <br>Je viens de créer ce site, d'autres contenus vont être ajoutés, possiblement sur les thèmes :<br><br>
 
 <b>Entreprises qui veulent scaler leur activité :</b><br>
