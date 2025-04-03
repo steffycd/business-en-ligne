@@ -39,10 +39,8 @@ Avocats, comptables, coachs ou infopreneurs, découvrez des stratégies pour sca
 <b> Qui je suis ?</b><br> 
 📌 <b>Business coaching pour les professions du droit et du chiffre (avocats, comptables), coachs ou infopreneurs.</b><br>
 
-J'aide les avocats à structurer et scaler leur business.<br>
-J'aide les coachs & infopreneurs à monétiser et à scaler.<br>
-J'aide les YouTubeurs à construire une offre pour monétiser leur audience. <br>
-J'accompagne plus généralement les entrepreneurs à structurer et scaler leur business. <br>
+J'aide les avocats et comptables à structurer et scaler leur business.<br>
+J'accompagne plus généralement les entrepreneurs à structurer et scaler leur business, qu'il s'agisse d'une entreprise physique de prestation de service ou d'un business en ligne. <br>
 
 ⚡️270 K vues YouTube sur mes 3 chaînes |🏆 Certification SEO LinkedIn | 3000 élèves formés | Vraie professeure, j'ai étudié et enseigné marketing et l'économie pendant plus de 15 ans.<br>
 <p>
@@ -66,7 +64,7 @@ Témoignage video :<br>
 <br><br>
 
 ---
-<br>Contenus sur les thèmes suivants possiblement ajoutés bientôt :<br><br>
+<br>Contenus sur les thèmes suivants possiblement ajoutés bientôt :<br>
 
 <b>Entreprises qui veulent scaler leur activité :</b><br>
 
