@@ -10,7 +10,7 @@ title: Travaillez moins pour gagner plus : scalez votre activité !
 <br>
 Le scaling, c’est la capacité à faire croître votre activité de manière significative, sans augmenter proportionnellement les coûts ou le temps investi. Cela passe par l'optimisation des processus, l’automatisation de certaines tâches et l’utilisation des outils numériques pour gérer plus de clients sans sacrifier la qualité du service.<br>
 
-<b>Pour les professions du droit et du chiffre, 2025 est une année cruciale.</b> L'IA a déjà remplacé certains rôles, comme les juristes et les assistants comptables, et la digitalisation ne cesse de s'accélérer. <b>Si vous ne vous modernisez pas, vous risquez de perdre en compétitivité et de voir votre activité décliner.</b> En revanche, ceux qui choisissent d’adopter ces technologies pourront se développer plus efficacement et rester en tête de la compétition.<br>
+<b>Pour les <a href="scaler-votre-cabinet">professions du droit</a> et du chiffre, 2025 est une année cruciale.</b> L'IA a déjà remplacé certains rôles, comme les juristes et les assistants comptables, et la digitalisation ne cesse de s'accélérer. <b>Si vous ne vous modernisez pas, vous risquez de perdre en compétitivité et de voir votre activité décliner.</b> En revanche, ceux qui choisissent d’adopter ces technologies pourront se développer plus efficacement et rester en tête de la compétition.<br>
 
 <b>Pour vous aider à franchir ce cap, je vous propose un audit gratuit de vos processus actuels.</b> Cela vous permettra d’identifier les leviers de croissance et de modernisation qui vous aideront à scaler votre activité, à travailler moins, et à maximiser vos revenus de manière durable.<br><br>
 <a href="http://calendly.com/coaching-infopreneurs/decouverte?month=2024-01">Réserver un audit gratuit</a> <br>
@@ -42,7 +42,7 @@ Avocats, comptables, coachs ou infopreneurs, découvrez des stratégies pour sca
 <br> 
 📌 <b>Business coaching pour les professions du droit et du chiffre (avocats, comptables), coachs ou infopreneurs.</b><br>
 
-J'aide les avocats et comptables à structurer et scaler leur business.<br>
+J'aide les <a href="scaler-votre-cabinet">avocats </a> et comptables à structurer et scaler leur business.<br>
 J'accompagne plus généralement les entrepreneurs à structurer et scaler leur business, qu'il s'agisse d'une entreprise physique de prestation de service ou d'un business en ligne. <br>
 
 ⚡️270 K vues YouTube sur mes 3 chaînes |🏆 Certification SEO LinkedIn | 3000 élèves formés | Vraie professeure, j'ai étudié et enseigné marketing et l'économie pendant plus de 15 ans.<br>
@@ -103,7 +103,7 @@ Témoignage video :<br>
 <LI> Gestion des KPIs</LI>
 <br><br>
 
-<b>Scaling pour avocats et comptables</b><br>
+<b>Scaling pour <a href="scaler-votre-cabinet">avocats </a> et comptables</b><br>
 
 <LI> Optimisation du cashflow des cabinets</LI> 
 <LI> Automatisation des processus juridiques et comptables</LI> 
@@ -113,5 +113,6 @@ Témoignage video :<br>
 <LI> Scaling des services multicanal (digitalisation des consultations)</LI> 
 <LI> Suivi des performances via des KPIs spécifiques aux professions</LI>
 <br><br>
+
 Des questions ? Contact : steffycd@mailfence.com - <a href="http://docs.google.com/forms/d/e/1FAIpQLScPa8v7p1iMQupOlwNSdW9t6fD9wP1TFKS-C1ak424ckBKupw/viewform?usp=sf_link">Mon Télégram</a> - <a href="http://calendly.com/coaching-infopreneurs/decouverte?month=2024-01">Réserver un coaching gratuit</a> <br>
 Site créé le 18 septembre 2024. Dernière visite le 03 avril 2025.
