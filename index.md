@@ -113,6 +113,7 @@ Témoignage video :<br>
 <LI> Scaling des services multicanal (digitalisation des consultations)</LI> 
 <LI> Suivi des performances via des KPIs spécifiques aux professions</LI>
 <br><br>
+Brochure spéciale avocats : <br>
 <img src="1.jpg"> <br>
 <img src="2.jpg"> <br>
 
