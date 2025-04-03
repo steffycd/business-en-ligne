@@ -23,6 +23,7 @@ Découvrez des stratégies pour scaler votre entreprise, que ce soit une profess
 ---
 <br>
 # Professions du droit et du chiffre, apprenez à scaler votre cabinet
+
 <br>
 Le scaling, c’est la capacité à faire croître votre activité de manière significative, sans augmenter proportionnellement les coûts ou le temps investi. Cela passe par l'optimisation des processus, l’automatisation de certaines tâches et l’utilisation des outils numériques pour gérer plus de clients sans sacrifier la qualité du service.<br>
 
@@ -65,7 +66,7 @@ Témoignage video :<br>
 <br><br>
 
 ---
-<br>Je viens de créer ce site, d'autres contenus vont être ajoutés, possiblement sur les thèmes :<br><br>
+<br>Contenus sur les thèmes suivants possiblement ajoutés bientôt :<br><br>
 
 <b>Entreprises qui veulent scaler leur activité :</b><br>
 
