@@ -65,13 +65,12 @@ Témoignage video :<br>
 <br><br>
 
 ---
-<br>Contenus sur les thèmes suivants possiblement ajoutés bientôt :<br>
+<br>Thématiques :<br>
 
-<b>Entreprises qui veulent scaler leur activité :</b><br>
+<b>Business (général):</b><br>
 
 <LI> SEO (classement en 1ère page de Google)
 <LI> Automatisation du business
-<LI> IA
 <LI> Marketing en ligne
 <LI> Lancer des Webinaires de vente
 <LI> Créer une offre irrésistible
@@ -90,5 +89,17 @@ Témoignage video :<br>
 <LI> Gagner rapidement des Inscrits/Abonnés sur YouTube ou les réseaux sociaux
 <LI> Monétiser une audience TikTok/YouTube de plusieurs milliers d'abonnés ou plus
 <br><br>
+
+<b>Scaling</b><br>
+
+<LI> Optimisation du cashflow</LI> 
+<LI> Automatisation des ventes</LI> 
+<LI> Intelligence Artificielle appliquée au business</LI> 
+<LI> Pricing dynamique</LI> 
+<LI> Revenue récurrent</LI> 
+<LI> Scaling multicanal</LI> 
+<LI> Gestion des KPIs</LI>
+<br><br>
+  
 Des questions ? Contact : steffycd@mailfence.com - <a href="http://docs.google.com/forms/d/e/1FAIpQLScPa8v7p1iMQupOlwNSdW9t6fD9wP1TFKS-C1ak424ckBKupw/viewform?usp=sf_link">Mon Télégram</a> - <a href="http://calendly.com/coaching-infopreneurs/decouverte?month=2024-01">Réserver un coaching gratuit</a> <br>
 Site créé le 18 septembre 2024. Dernière visite le 03 avril 2025.
