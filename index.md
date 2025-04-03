@@ -113,6 +113,9 @@ Témoignage video :<br>
 <LI> Scaling des services multicanal (digitalisation des consultations)</LI> 
 <LI> Suivi des performances via des KPIs spécifiques aux professions</LI>
 <br><br>
+<img src="1.jpg"> <br>
+
+<br><br>
 
 Des questions ? Contact : steffycd@mailfence.com - <a href="http://docs.google.com/forms/d/e/1FAIpQLScPa8v7p1iMQupOlwNSdW9t6fD9wP1TFKS-C1ak424ckBKupw/viewform?usp=sf_link">Mon Télégram</a> - <a href="http://calendly.com/coaching-infopreneurs/decouverte?month=2024-01">Réserver un coaching gratuit</a> <br>
 Site créé le 18 septembre 2024. Dernière visite le 03 avril 2025.
