@@ -2,6 +2,7 @@
 layout: default
 title: Travaillez moins pour gagner plus : scalez votre activité !
 ---
+# Travaillez moins pour gagner plus : scalez votre activité !
 <br>
 # Professions du droit et du chiffre, apprenez à scaler votre cabinet
 
