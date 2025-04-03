@@ -21,7 +21,7 @@ Découvrez des stratégies pour scaler votre entreprise, que ce soit une profess
 <a href="https://i-sml.mtrbio.com/public/smartlink/steffyCD">Multiliens</a>
 
 <br>
-<b>Qui je suis ?</b><br> 
+<b> Qui je suis ?</b><br> 
 📌 <b></b>Business coaching pour les professions du droit et du chiffre (avocats, comptables), coachs ou infopreneurs.</b><br>
 
 J'aide les avocats à structurer et scaler leur business.<br>
